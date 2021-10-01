@@ -1,7 +1,5 @@
 # Programmeren: nuttige terminologie
 
-Author: Gillian 
-
 ##  Nuttige woorden
 
 | Engels | Nederlands |
